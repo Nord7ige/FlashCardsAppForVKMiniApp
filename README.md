@@ -1,5 +1,8 @@
 # Basic [VK Bridge](https://github.com/VKCOM/vk-bridge) + [VKUI](https://github.com/VKCOM/VKUI) + [VK Miniapps Router](https://github.com/VKCOM/vk-mini-apps-router) app
 
+ПРИЛОЖЕНИЕ ДОСТУПНО ПО ССЫЛКЕ: https://vk.com/app53896752
+ПРЕЗЕНТАЦИЯ ПРОЕКТА: https://cloud.mail.ru/public/QidT/7Y8f8UdTP
+
 Этот шаблон предоставляет базовый код и настройки для создания мини-приложения внутри ВКонтакте.  
 В качестве сборщика проекта выступает [Vite](https://vite-docs-ru.vercel.app/guide/), подробнее про его конфигурацию и дополнительные плагины можно прочитать [здесь](https://vite-docs-ru.vercel.app/config/) и [здесь]().
 
